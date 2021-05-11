@@ -17,7 +17,7 @@ Zaman geçtikçe öğrendiğim yeni şeyler ile geliştirmeye çalıştım.
 
 - Ayarlar menüsü
 
-![](https://cdn.discordapp.com/attachments/796696080568942613/840901845685370890/unknown.png)
+![](https://cdn.discordapp.com/attachments/796696080568942613/841630683276771328/unknown.png)
 
 - Database-Seviye sistemi
 
